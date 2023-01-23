@@ -34,6 +34,9 @@ iii) # To find the maximum marks without using builtin functions.
 ![output](./img/max_marks1.jpg) 
 
 ## Output:
+![Screenshot 2023-01-23 194012](https://user-images.githubusercontent.com/121166075/214064141-c290d914-a59d-4b0d-8a59-3b8e58537b83.png)
+![Screenshot 2023-01-23 194050](https://user-images.githubusercontent.com/121166075/214064194-d36b6a7e-cb72-4271-a576-d0e057f70e68.png)
+![Screenshot 2023-01-23 194134](https://user-images.githubusercontent.com/121166075/214064229-e5a8bd96-8112-46c2-920a-2e21e203d5fb.png)
 
 ## Result:
 Thus the program to find the maximum of given numbers from the list is written and verified using python programming.
